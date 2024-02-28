@@ -1,34 +1,24 @@
 Retail Billing Manager
 Retail Billing Manager is a simple billing software developed in Python using Tkinter. It allows users to generate bills for retail purchases, calculate totals, and print receipts.
 
+![7](https://github.com/abdulrehmanRX/Kiryana_Shop/assets/156535311/7df58225-b0fe-4bac-bf93-065ae95174b2)
+
+
+
+
 Features
 User-friendly interface
+
+![8](https://github.com/abdulrehmanRX/Kiryana_Shop/assets/156535311/b1a6968c-a6e4-4387-95b6-dbbf73d4c967)
+
+
+
 Select items from different categories
 Add item quantity and calculate total
 Remove the last item added
 Generate and print receipts
-Installation
-Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/retail-billing-manager.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd retail-billing-manager
-Install the required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Run the billing.py file:
-
-bash
-Copy code
-python billing.py
 Enter customer details such as name and bill number.
 
 Select items from the categories and specify the quantity.

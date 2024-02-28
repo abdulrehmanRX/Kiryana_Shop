@@ -30,3 +30,6 @@ To remove the last item added, click "Remove Last".
 Click "Generate" to generate and print the receipt.
 
 Click "Exit" to close the application.
+
+Youtube Link:
+https://youtu.be/43UeO85Ny7Y
